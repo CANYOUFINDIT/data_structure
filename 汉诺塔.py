@@ -28,3 +28,75 @@ def move(A, C):
 if __name__ == "__main__":
     print "移动汉诺塔的步骤："
     hanoi(3, 'a', 'b', 'c')
+
+
+'''
+
+//非递归算法（还没仔细看）
+int hanota(int num) {
+	int max_times;
+	int i,k,j;
+	int flag;
+	int s1,s2,s3,s=0;
+	//记录每个盘子位置
+	int site[100]={0};
+	//判断输入的盘子个数是奇数还是偶数
+	if(num%2 == 0)
+		flag=1;
+	else
+		flag=0;
+	//求出需要搬动盘子的最大值
+	max_times=poww(2, num)-1;
+	//根据规律搬动盘子
+	for (i=1; i <= max_times; i++){
+		//根据规律求出当前步数需要挪动那个盘子
+		for(j=num-1; j>=0; j--){
+			int temp;
+			temp=poww(2,j);
+			if(i%temp == 0 && i >= temp )
+				break;
+		}
+		//printf("*****k=%d********\n", j+1);
+		k=j+1;
+		//根据规律挪动盘子
+		if(flag){
+			if(k%2 != 0){
+				printf("move1 %d from %d to %d \n", k,site[k],(site[k]+1)%3);
+				printff(k,site[k],(site[k]+1)%3);
+				s=(s+1)%3;
+				site[k]=(site[k]+1)%3;
+			}
+			else{
+				printf("move2 %d from %d to %d \n",k,site[k],abs((site[k]-1+3)%3));
+				printff(k,site[k],abs((site[k]-1+3)%3));
+				s=abs((s-1+3)%3);
+				site[k]=abs((site[k]-1+3)%3);
+			}
+			
+		}
+		else{
+			if(k%2 == 0){
+				printf("move3 %d from %d to %d \n", k,site[k],(site[k]+1)%3);
+				printff(k,site[k],(site[k]+1)%3);
+				s=(s+1)%3;
+				site[k]=(site[k]+1)%3;
+			}
+			else{
+				printf("move4 %d from %d to %d \n",k,site[k],abs((site[k]-1+3)%3));
+				printff(k,site[k],abs((site[k]-1+3)%3));
+				s=abs((s-1+3)%3);
+				site[k]=abs((site[k]-1+3)%3);
+			}
+		
+		}
+	}
+
+}
+	
+int main () {
+	hanota(6);
+	printf("count =%d\n", count);
+	return 0;
+}
+
+'''
