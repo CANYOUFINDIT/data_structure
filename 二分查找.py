@@ -1,6 +1,6 @@
 # coding:utf-8
 
-# 二分查找,时间复杂度O(logn)
+# 二分查找,只适用于有序数列，时间复杂度O(logn)
 def binary_search(list, item):
     # low和high用于跟踪要在其中查找的列表部分
     low = 0
