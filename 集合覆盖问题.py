@@ -32,8 +32,7 @@ while states_needed:
             # 将best_station设置为当前广播台
             best_station = station
             states_covered = covered
-
-states_needed -= states_covered
-final_stations.add(best_station)
+    states_needed -= states_covered
+    final_stations.add(best_station)
 
 print final_stations
