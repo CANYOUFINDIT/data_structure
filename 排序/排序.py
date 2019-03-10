@@ -57,4 +57,57 @@ def bubbleSort(array):
             break
     return arr
 
-print bubbleSort([5, 3, 6, 2, 10])
+# --------------------
+# 堆排序
+def buildMaxHeap(arr):
+    for i in range(int(len(arr)/2), -1, -1):
+        heapify(arr, i)
+
+def heapify(arr, i):
+    left = 2*i + 1
+    right = 2*i + 2
+    largest = i
+    if left < arrLen and arr[left] > arr[largest]:
+        largest = left
+    if right < arrLen and arr[right] > arr[largest]:
+        largest = right
+
+    if largest != i:
+        swap(arr, i, largest)
+        heapify(arr, largest)
+
+def swap(arr, i, j):
+    arr[i], arr[j] = arr[j], arr[i]
+
+def heapSort(arr):
+    global arrLen
+    arrLen = len(arr)
+    buildMaxHeap(arr)
+    for i in range(len(arr)-1, 0, -1):
+        swap(arr, 0, i)
+        arrLen -= 1 
+        heapify(arr, 0)
+    return arr
+
+# --------------------
+# 计数排序
+def countingSort(arr, maxValue):
+    bucketLen = maxValue + 1
+    bucket = [0]*bucketLen
+    sortedIndex = 0
+    arrLen = len(arr)
+    for i in range(arrLen):
+        if not bucket[arr[i]]:
+            bucket[arr[i]] = 0
+        bucket[arr[i]] += 1
+    for j in range(bucketLen):
+        while bucket[j] > 0:
+            arr[sortedIndex] = j
+            sortedIndex += 1
+            bucket[j] -= 1
+    return arr
+
+# --------------------
+# 基数排序
+
+print countingSort([5, 3, 6, 2, 10], 10)
