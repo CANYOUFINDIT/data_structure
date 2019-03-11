@@ -1,6 +1,7 @@
 # coding:utf-8
 
-def bucket_sort(array, n):
+def bucketSort(array):
+    n = len(array)
     # 1.创建n个空桶
     new_list = [[] for _ in range(n)]
 
@@ -24,8 +25,7 @@ def bucket_sort(array, n):
 
 def main():
     array = [0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434]
-    n = len(array)
-    array = bucket_sort(array, n)
+    array = bucketSort(array)
     print(array)
 
 
