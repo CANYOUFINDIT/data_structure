@@ -55,6 +55,8 @@
 
 #### 流程图
 
+![](../image/插入排序.svg)
+
 #### 代码实现
 
 ```python
@@ -92,6 +94,8 @@ def insertSort(arr):
 ![](https://mmbiz.qpic.cn/mmbiz_gif/D67peceibeIRjibmz7icUiciav9XibmONicSlEhg5HW5qwHfd2DqlDLCTBDAnTdRYibAjvic5caoRdwicGQGKlbCeibhJjosw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 #### 流程图
+
+![](../image/希尔排序.svg)
 
 #### 代码实现
 
@@ -131,6 +135,8 @@ def shellSort(arr):
 ![](https://mmbiz.qpic.cn/mmbiz_gif/D67peceibeISwc3aGibUlvZ0XqVnbWtBRiaB2dW1vA5SganRPChytYTFiaJL2PkXlL7XmhYmqIAzBHj0VvgJZs0vmA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 #### 流程图
+
+![](../image/选择排序.svg)
 
 #### 代码实现
 
@@ -237,7 +243,7 @@ def heapSort(arr):
 
 #### 流程图
 
-![](image/冒泡排序.png)
+![](../image/冒泡排序.svg)
 
 #### 代码实现
 
