@@ -183,6 +183,8 @@ def selectSort(arr):
 
 #### 流程图
 
+![](../image/堆排序.svg)
+
 #### 代码实现
 
 ```python
@@ -286,6 +288,8 @@ def bubbleSort(array):
 
 #### 流程图
 
+![](../image/快速排序.svg)
+
 #### 代码实现
 
 ```python
@@ -324,6 +328,8 @@ def quicksort(array):
 ![](https://mmbiz.qpic.cn/mmbiz_gif/D67peceibeITkF8amtfjpFpcdcOgibSOParGUDopby0MkyLCicNU4WauSVe0ibpcDPusrBAYO0B0MIUQxYFq623zEw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 #### 流程图
+
+![](../image/计数排序.svg)
 
 #### 代码实现
 
@@ -458,6 +464,8 @@ if __name__ == '__main__':
 ![](https://mmbiz.qpic.cn/mmbiz_gif/D67peceibeIRD6FDk2Cp6xIDFWRT2SQcsPz4Vfvja6WUCwTD5ZkUZexhlTxCEmQIowqEFfcTr7AGKV363GuvWGg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 #### 流程图
+
+![](../image/归并.svg)
 
 #### 代码实现
 
