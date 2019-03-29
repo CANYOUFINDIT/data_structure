@@ -387,6 +387,8 @@ def countingSort(arr, maxValue):
 
 #### 流程图
 
+![](../image/桶排序.svg)
+
 #### 代码实现
 ```python
 def bucketSort(array):
@@ -426,6 +428,8 @@ def bucketSort(array):
 ![](https://mmbiz.qpic.cn/mmbiz_gif/D67peceibeIRxSzm8QgeCjyuoZkKQTwmHCLZibj46Jc2eWhdXhTG48Mr9nU3j6qOIV0u0tLncNWdpddlWC1dsBtg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 #### 流程图
+
+![](../image/基数排序.svg)
 
 #### 代码实现
 
@@ -483,7 +487,7 @@ if __name__ == '__main__':
 
 #### 流程图
 
-![](../image/归并.svg)
+![](../image/归并排序.svg)
 
 #### 代码实现
 
