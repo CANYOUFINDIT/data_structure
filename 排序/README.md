@@ -26,6 +26,8 @@
 | 基数排序 |    O(n*k)    |   O(n*k)   | O(n*k)   | O(n+k)   | 稳定   |
 | 归并排序 |   O(nlogn)   |   O(nlogn)   | O(nlogn)   | O(n)   | 稳定   |
 
+关于时间空间复杂度的计算：[大O表示法](https://github.com/CANYOUFINDIT/data_structure/blob/master/%E5%A4%A7O%E8%A1%A8%E7%A4%BA%E6%B3%95.md)
+
 关于时间复杂度：
 1. 平方阶 (O(n2)) 排序 各类简单排序：直接插入、直接选择和冒泡排序。
 2. 线性对数阶 (O(nlog2n)) 排序 快速排序、堆排序和归并排序；
