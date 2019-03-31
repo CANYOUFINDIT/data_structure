@@ -451,6 +451,11 @@ def bucketSort(array):
             array[index] = new_list[i][j]
             index += 1
     return array
+
+array = [0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434]
+array = bucketSort(array)
+print(array)
+
 ```
 
 ## 基数排序
