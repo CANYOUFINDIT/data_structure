@@ -81,7 +81,7 @@
 #### 流程图
 
 <div align=center>
-<img src="../image/插入排序.svg" width="60%" height="60%" />
+<img src="../../image/插入排序.svg" width="60%" height="60%" />
 </div>
 
 #### 代码实现
@@ -125,7 +125,7 @@ def insertSort(arr):
 #### 流程图
 
 <div align=center>
-<img src="../image/希尔排序.svg" />
+<img src="../../image/希尔排序.svg" />
 </div>
 
 #### 代码实现
@@ -171,7 +171,7 @@ def shellSort(arr):
 #### 流程图
 
 <div align=center>
-<img src="../image/选择排序.svg" />
+<img src="../../image/选择排序.svg" />
 </div>
 
 #### 代码实现
@@ -222,7 +222,7 @@ def selectSort(arr):
 #### 流程图
 
 <div align=center>
-<img src="../image/堆排序.svg" />
+<img src="../../image/堆排序.svg" />
 </div>
 
 #### 代码实现
@@ -289,7 +289,7 @@ def heapSort(arr):
 #### 流程图
 
 <div align=center>
-<img src="../image/冒泡排序.svg" />
+<img src="../../image/冒泡排序.svg" />
 </div>
 
 #### 代码实现
@@ -337,7 +337,7 @@ def bubbleSort(array):
 #### 流程图
 
 <div align=center>
-<img src="../image/快速排序.svg" />
+<img src="../../image/快速排序.svg" />
 </div>
 
 #### 代码实现
@@ -383,7 +383,7 @@ def quicksort(array):
 #### 流程图
 
 <div align=center>
-<img src="../image/计数排序.svg" />
+<img src="../../image/计数排序.svg" />
 </div>
 
 #### 代码实现
@@ -428,7 +428,7 @@ def countingSort(arr, maxValue):
 #### 流程图
 
 <div align=center>
-<img src="../image/桶排序.svg" />
+<img src="../../image/桶排序.svg" />
 </div>
 
 #### 代码实现
@@ -480,7 +480,7 @@ print(array)
 #### 流程图
 
 <div align=center>
-<img src="../image/基数排序.svg" />
+<img src="../../image/基数排序.svg" />
 </div>
 
 #### 代码实现
@@ -543,7 +543,7 @@ if __name__ == '__main__':
 #### 流程图
 
 <div align=center>
-<img src="../image/归并排序.svg" />
+<img src="../../image/归并排序.svg" />
 </div>
 
 #### 代码实现

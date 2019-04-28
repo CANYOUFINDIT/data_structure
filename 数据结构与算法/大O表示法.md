@@ -11,7 +11,7 @@
 
 <div align=center>
 
-![](image/O(n).png)
+![](../image/O(n).png)
 
 </div>
 这指出了算法需要执行的操作数。之所以称为大O表示法，是因为操作数前有个大O。这听起来像笑话，但事实如此！
@@ -39,7 +39,7 @@
 
 <div align=center>
 
-![](image/五种算法的速度.png)
+![](../image/五种算法的速度.png)
 
 </div>
 
@@ -72,7 +72,7 @@ print item
 
 <div align="center">
 
-![](image/休眠与不休眠.jpg)
+![](../image/休眠与不休眠.jpg)
 
 </div>
 
@@ -80,7 +80,7 @@ print item
 
 <div align="center">
 
-![](image/n的意思.jpg)
+![](../image/n的意思.jpg)
 
 </div>
 
@@ -91,7 +91,7 @@ c是算法所需的固定时间量，被称为常量。例如，print_ items所�
 
 <div align="center">
 
-![](image/两种查找法的速度1.jpg)
+![](../image/两种查找法的速度1.jpg)
 
 </div>
 
@@ -99,7 +99,7 @@ c是算法所需的固定时间量，被称为常量。例如，print_ items所�
 
 <div align="center">
 
-![](image/两种查找法的速度2.jpg)
+![](../image/两种查找法的速度2.jpg)
 
 </div>
 
@@ -115,7 +115,7 @@ c是算法所需的固定时间量，被称为常量。例如，print_ items所�
 
 <div align="center">
 
-![](image/快速排序最糟情况.png)
+![](../image/快速排序最糟情况.png)
 
 </div>
 
@@ -123,7 +123,7 @@ c是算法所需的固定时间量，被称为常量。例如，print_ items所�
 
 <div align="center">
 
-![](image/快速排序最佳情况.png)
+![](../image/快速排序最佳情况.png)
 
 </div>
 调用栈短得多！因为你每次都将数组分成两半，所以不需要那么多递归调用。你很快就到达了基线条件，因此调用栈短得多。
@@ -134,21 +134,21 @@ c是算法所需的固定时间量，被称为常量。例如，print_ items所�
 
 <div align="center">
 
-![](image/快速排序时间复杂度1.png)
+![](../image/快速排序时间复杂度1.png)
 
 </div>
 即便以不同的方式划分数组，每次也将涉及O(n)个元素。
 
 <div align="center">
 
-![](image/快速排序时间复杂度2.png)
+![](../image/快速排序时间复杂度2.png)
 
 </div>
 因此，完成每层所需的时间都为O(n)。
 
 <div align="center">
 
-![](image/快速排序时间复杂度3.png)
+![](../image/快速排序时间复杂度3.png)
 
 </div>
 在这个示例中，层数为O(log n)（用技术术语说，调用栈的高度为O(log n)），而每层需要的时间为O(n)。因此整个算法需要的时间为O(n) * O(log n) = O(n log n)。这就是最佳情况。

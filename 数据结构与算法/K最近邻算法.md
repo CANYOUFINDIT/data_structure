@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![](image/橙子柚子1.jpg)
+![](../image/橙子柚子1.jpg)
 
-![](image/橙子柚子2.jpg)
+![](../image/橙子柚子2.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![](image/橙子柚子3.png)
+![](../image/橙子柚子3.png)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![](image/橙子柚子4.png)
+![](../image/橙子柚子4.png)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![](image/橙子柚子5.png)
+![](../image/橙子柚子5.png)
 
 </div>
 
@@ -50,7 +50,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/推荐系统1.png)
+![](../image/推荐系统1.png)
 
 </div>
 
@@ -60,7 +60,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/推荐系统2.jpg)
+![](../image/推荐系统2.jpg)
 
 </div>
 
@@ -72,7 +72,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/提取特征1.jpg)
+![](../image/提取特征1.jpg)
 
 </div>
 
@@ -80,7 +80,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/提取特征2.jpg)
+![](../image/提取特征2.jpg)
 
 </div>
 
@@ -88,7 +88,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/提取特征3.jpg)
+![](../image/提取特征3.jpg)
 
 </div>
 
@@ -96,7 +96,7 @@ KNN算法虽然简单却很有用！要对东西进行分类时，可首先尝�
 
 <div align="center">
 
-![](image/提取特征4.jpg)
+![](../image/提取特征4.jpg)
 
 </div>
 
@@ -104,7 +104,7 @@ A和B的距离为1。你还可计算其他水果之间的距离。
 
 <div align="center">
 
-![](image/提取特征5.jpg)
+![](../image/提取特征5.jpg)
 
 </div>
 
@@ -114,7 +114,7 @@ A和B的距离为1。你还可计算其他水果之间的距离。
 
 <div align="center">
 
-![](image/提取特征6.jpg)
+![](../image/提取特征6.jpg)
 
 </div>
 
@@ -124,7 +124,7 @@ A和B的距离为1。你还可计算其他水果之间的距离。
 
 <div align="center">
 
-![](image/提取特征7.jpg)
+![](../image/提取特征7.jpg)
 
 </div>
 
@@ -132,7 +132,7 @@ Priyanka和Justin都喜欢爱情片且都讨厌恐怖片。Morpheus喜欢动作�
 
 <div align="center">
 
-![](image/提取特征8.png)
+![](../image/提取特征8.png)
 
 </div>
 
@@ -140,7 +140,7 @@ Priyanka和Justin都喜欢爱情片且都讨厌恐怖片。Morpheus喜欢动作�
 
 <div align="center">
 
-![](image/提取特征9.jpg)
+![](../image/提取特征9.jpg)
 
 </div>
 
@@ -150,7 +150,7 @@ Priyanka和Justin都喜欢爱情片且都讨厌恐怖片。Morpheus喜欢动作�
 
 <div align="center">
 
-![](image/提取特征10.png)
+![](../image/提取特征10.png)
 
 </div>
 
@@ -172,7 +172,7 @@ Priyanka和Morpheus的距离为24，你算对了吗？上述距离表明，Priya
 
 <div align="center">
 
-![](image/推荐系统1.png)
+![](../image/推荐系统1.png)
 
 </div>
 
@@ -180,7 +180,7 @@ Priyanka和Morpheus的距离为24，你算对了吗？上述距离表明，Priya
 
 <div align="center">
 
-![](image/回归4.jpg)
+![](../image/回归4.jpg)
 
 </div>
 
@@ -198,7 +198,7 @@ Priyanka和Morpheus的距离为24，你算对了吗？上述距离表明，Priya
 
 <div align="center">
 
-![](image/回归1.jpg)
+![](../image/回归1.jpg)
 
 </div>
 
@@ -206,7 +206,7 @@ Priyanka和Morpheus的距离为24，你算对了吗？上述距离表明，Priya
 
 <div align="center">
 
-![](image/回归2.jpg)
+![](../image/回归2.jpg)
 
 </div>
 
@@ -214,7 +214,7 @@ Priyanka和Morpheus的距离为24，你算对了吗？上述距离表明，Priya
 
 <div align="center">
 
-![](image/回归3.jpg)
+![](../image/回归3.jpg)
 
 </div>
 
@@ -251,7 +251,7 @@ OCR指的是光学字符识别（optical character recognition），这意味着
 
 <div align="center">
 
-![](image/OCR1.jpg)
+![](../image/OCR1.jpg)
 
 </div>
 
@@ -262,7 +262,7 @@ OCR指的是光学字符识别（optical character recognition），这意味着
 
 <div align="center">
 
-![](image/OCR2.png)
+![](../image/OCR2.png)
 
 </div>
 
@@ -279,7 +279,7 @@ OCR的第一步是查看大量的数字图像并提取特征，这被称为训�
 
 <div align="center">
 
-![](image/垃圾过滤.jpg)
+![](../image/垃圾过滤.jpg)
 
 </div>
 
