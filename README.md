@@ -1,11 +1,22 @@
 # ~~数据结构和算法的~~学习记录
 
 ## 目录
-- [操作系统](https://github.com/CANYOUFINDIT/data_structure/tree/master/操作系统)
-- - 
-- [数据库系统](https://github.com/CANYOUFINDIT/data_structure/tree/master/数据库系统)
-- [数据结构与算法](https://github.com/CANYOUFINDIT/data_structure/tree/master/数据结构与算法)
+- [操作系统](./操作系统)
+  - [进程管理](./操作系统/进程管理.md)
+- [数据库系统](./数据库系统)
+  - [Mysql操作小结](./数据库系统/Mysql操作小结.md)
+  - [ORM框架－SQLALchemy](./数据库系统/ORM框架－SQLALchemy.md)
+  - [三级模式和两级映射](./数据库系统/三级模式和两级映射.md)
+- [数据结构与算法](./数据结构与算法)
+  - [图与最短路径](./数据结构与算法/图与最短路径)
+    - 图的遍历
+    - 广度优先搜索
+    - [狄克斯特拉算法](./数据结构与算法/图与最短路径/狄克斯特拉算法.md)
+  - [排序算法](./数据结构与算法/排序)
+    - [排序算法总结](./数据结构与算法/排序/README.md)
 - [计算机网络](./计算机网络)
+  - [OSI参考模型](./计算机网络/OSI参考模型.md)
+  - [TCP/IP协议族](./计算机网络/TCP\IP协议族.md)
 
 用于记录所学内容，目标是一天一个算法问题(flag)
 
