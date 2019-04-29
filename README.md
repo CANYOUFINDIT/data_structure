@@ -1,4 +1,11 @@
-# 数据结构和算法的学习记录
+# ~~数据结构和算法的~~学习记录
+
+## 目录
+- [操作系统](https://github.com/CANYOUFINDIT/data_structure/tree/master/操作系统)
+- - 
+- [数据库系统](https://github.com/CANYOUFINDIT/data_structure/tree/master/数据库系统)
+- [数据结构与算法](https://github.com/CANYOUFINDIT/data_structure/tree/master/数据结构与算法)
+- [计算机网络](./计算机网络)
 
 用于记录所学内容，目标是一天一个算法问题(flag)
 
