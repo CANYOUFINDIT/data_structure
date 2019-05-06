@@ -17,7 +17,7 @@ TCP/IP作为Internet的核心协议，通过近20多年的发展已日渐成熟�
 协议是对数据在计算机或设备之间传输时的表示方法进行定义和描述的标准。协议规定了进行传输、检测错误以及传送确认信息等内容。TCP/IP是个协议族，它包含了多种协议。ISO/OSI模型、TCP/IP的分层模型及协议的对比如下图，括号内为其端口号。
 
 <div align=center>
-<img src="../image/TCP协议簇.svg" width="95%" height="95%" />
+<img src="../image/TCP协议簇.png" width="95%" height="95%" />
 </div>
 
 
