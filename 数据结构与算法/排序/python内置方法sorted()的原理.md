@@ -77,8 +77,11 @@ Timsort 的运行时间实际与归并排序相似的，本质上利用了归并
 
 及 minrun = 4，则排序步骤如下所示。其中每一行代表 Timsort 的一个步骤。方块上括号表示在最初生成 run 时首先找到的尽可能长的连续严格递减序列或连续非递减序列，下方括号表示扩充后或者合并的 run 。
 
-![](http://ww1.sinaimg.cn/large/006cHa3Qgy1g3uz8qgcy2j30a40eptal.jpg)
+<div align=center>
 
+![](https://ws1.sinaimg.cn/large/006cHa3Qgy1g3uzvdzeyyj30a40eptal.jpg)
+
+</div>
 
 ### minrun
 
