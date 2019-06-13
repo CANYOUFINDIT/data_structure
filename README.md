@@ -6,7 +6,7 @@
 <summary>展开</summary>
 
 - [python 知识记录](./python知识记录)
-  - [python装饰器的原理](./python知识记录/python装饰器的原理.md)
+  - [python装饰器的原理](./python知识记录/python%20装饰器的原理.md)
 - [操作系统](./操作系统)
   - [进程管理](./操作系统/进程管理.md)
 - [数据库系统](./数据库系统)
